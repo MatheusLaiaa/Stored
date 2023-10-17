@@ -7,7 +7,7 @@
 
  ![image](https://github.com/MatheusLaiaa/Stored/assets/144149403/7e5ebbf9-e349-4c03-934d-084589b18197)
 
- ## script SQL
+ ## Script SQL
  
  Mostrando as seguintes informações: Id do aluno, nome, sobrenome, data de nascimento, id do curso e o email produzido 
 
